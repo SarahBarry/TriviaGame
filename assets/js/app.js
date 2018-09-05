@@ -161,7 +161,7 @@ $(document).ready(function(){
     function displayImage() {
         if(count === 0) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="/images/bill-of-rights.png">');
+            $("#image-holder").html('<img src="assets/images/bill-of-rights.png">');
         }
         else if(count === 1) {
             $("#image-holder").show();
