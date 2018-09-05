@@ -161,15 +161,15 @@ $(document).ready(function(){
     function displayImage() {
         if(count === 0) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="TriviaGame/assets/images/bill-of-rights.png">');
+            $("#image-holder").html('<img src="/assets/images/bill-of-rights.png">');
         }
         else if(count === 1) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="TriviaGame/assets/images/benjamin-franklin.jpg">');
+            $("#image-holder").html('<img src="/assets/images/benjamin-franklin.jpg">');
         }
         else if(count === 2) {
             $("#image-holder").show();
-            $("#image-holder").html('<img src="TriviaGame/assets/images/supreme-court.jpg">');
+            $("#image-holder").html('<img src="/assets/images/supreme-court.jpg">');
         }
     }
 
