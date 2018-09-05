@@ -171,10 +171,6 @@ $(document).ready(function(){
             $("#image-holder").show();
             $("#image-holder").html('<img src="/Users/carlfowler/Desktop/TriviaGame/TriviaGame/assets/images/supreme-court.jpg">');
         }
-        else if(count === 3) {
-            $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/merope_gaunt.png">');
-        }
     }
 
  // Show Results Function   
