@@ -5,7 +5,7 @@ h1, .jumbotron {
 }
 
 .jumbotron {
-    background-image: url("assets/images/american-flag.png");
+    background-image: url("../images/american-flag.png");
 }
 
 body {
