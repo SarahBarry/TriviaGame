@@ -175,22 +175,6 @@ $(document).ready(function(){
             $("#image-holder").show();
             $("#image-holder").html('<img src="assets/images/merope_gaunt.png">');
         }
-        else if(count === 4) {
-            $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/snitch.jpg">');
-        }
-        else if(count === 5) {
-            $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/phoenix.jpg">');
-        }
-        else if(count === 6) {
-            $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/lion.jpg">');
-        }
-        else if(count === 7) {
-            $("#image-holder").show();
-            $("#image-holder").html('<img src="assets/images/neville_longbottom.jpg">');
-        }
     }
 
  // Show Results Function   
